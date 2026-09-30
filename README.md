@@ -27,5 +27,9 @@ python main.py
 ```
 5. Follow the prompts to enter the crop name (potato/rice/wheat) and answer the symptom questions with "yes" or "no".
 
+## Image
+
+![Image](image.png)
+
 ## Author
 Neeraj Prajapati
